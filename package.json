@@ -1,0 +1,21 @@
+{
+  "name": "vuepress",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/vuepress",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@codesee/babel-plugin-instrument": "0.7.0",
+    "@codesee/tracker": "0.7.0",
+    "vuepress": "^1.5.3"
+  }
+}
